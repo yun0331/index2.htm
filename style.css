@@ -34,7 +34,7 @@ h1 {
 
 /* 主視覺 */
 .mainvisual {
-    background-color: #9670be;
+    background-color: #d9bedf;
     border-bottom: solid 3px #000000;
 }
 .mainvisual img {
@@ -116,7 +116,7 @@ th {
 
 /* 回頁首 */
 .pagetop {
-    text-align: center;
+    text-align: right;
 }
 
 /* 著作權 */
